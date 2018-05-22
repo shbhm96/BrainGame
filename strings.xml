@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="chooseAnswer">choose</string>
+    <string name="s30">30ses</string>
+    <string name="krr">Correct!</string>
+    <string name="a6">7</string>
+    <string name="sec0">0sec</string>
+    <string name="number">31+12</string>
+    <string name="dobara">Play Again?</string>
+    <string name="score">Your score</string>
+    <string name="inkrr">InCorrect</string>
+
+
+    <string name="suru">Start</string>
+</resources>
